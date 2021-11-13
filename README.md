@@ -1,2 +1,2 @@
 # by-sknight.github.io
-git test
+一个平凡无奇的啥都没有的Page，很合理吧？
